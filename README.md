@@ -3,6 +3,8 @@
 Aplicação que busca por filmes e séries através da API "The Open Movie Database" (http://www.omdbapi.com/).
 O usuário poderá utilizar filtros, escolhendo entre séries ou filmes e utilizar o campo de pesquisa para digitar o nome/trecho do entretenimento desejado.
 
+**Deploy:** https://findmoviesandseries.netlify.app/
+
 ---
 
 ## :rocket: Tecnologias Utilizadas
